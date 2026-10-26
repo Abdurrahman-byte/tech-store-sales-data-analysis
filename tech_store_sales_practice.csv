@@ -1,0 +1,151 @@
+Date,Category,Product,Region,Units_Sold,Unit_Price_USD,Revenue_USD,Ad_Spend_USD,Customer_Rating,Returned_Units
+2026-01-01,Audio,Bluetooth Speaker,North,11,90,990,400.86,4.4,0
+2026-01-02,Audio,Noise-Canceling Headphones,West,5,250,1250,320.5,4.56,0
+2026-01-03,Wearables,Smartwatch Series X,South,6,300,1800,50.35,4.99,0
+2026-01-04,Accessories,Mechanical Keyboard,West,9,120,1080,181.05,4.42,0
+2026-01-05,Wearables,Smartwatch Series X,East,14,300,4200,90.77,4.43,0
+2026-01-06,Wearables,Fitness Band,East,5,100,500,323.4,3.76,0
+2026-01-07,Electronics,Smart Monitor,South,10,450,4500,187.08,3.65,0
+2026-01-08,Wearables,Fitness Band,West,13,100,1300,424.94,3.76,0
+2026-01-09,Wearables,Smartwatch Series X,South,14,300,4200,284.03,4.32,0
+2026-01-10,Accessories,Wireless Mouse,West,2,50,100,227.82,4.89,0
+2026-01-11,Wearables,Smartwatch Series X,East,12,300,3600,70.35,3.99,0
+2026-01-12,Audio,Noise-Canceling Headphones,West,10,250,2500,484.36,4.41,0
+2026-01-13,Audio,Noise-Canceling Headphones,North,9,250,2250,494.1,4.66,0
+2026-01-14,Audio,Noise-Canceling Headphones,East,1,250,250,370.1,4.69,0
+2026-01-15,Accessories,USB-C Dock,South,9,80,720,461.73,4.78,0
+2026-01-16,Wearables,Fitness Band,East,14,100,1400,196.33,4.59,0
+2026-01-17,Audio,Noise-Canceling Headphones,East,5,250,1250,487.27,4.77,0
+2026-01-18,Audio,Bluetooth Speaker,East,11,90,990,285.23,4.14,0
+2026-01-19,Audio,Noise-Canceling Headphones,West,7,250,1750,263.92,4.34,0
+2026-01-20,Audio,Noise-Canceling Headphones,North,11,250,2750,141.38,4.91,0
+2026-01-21,Accessories,Wireless Mouse,South,13,50,650,183.04,3.66,0
+2026-01-22,Wearables,Smartwatch Series X,South,14,300,4200,292.7,4.71,0
+2026-01-23,Accessories,Mechanical Keyboard,North,9,120,1080,341.46,3.5,0
+2026-01-24,Audio,Bluetooth Speaker,West,11,90,990,237.83,3.83,0
+2026-01-25,Wearables,Fitness Band,East,6,100,600,148.44,4.34,0
+2026-01-26,Electronics,Smart Monitor,West,12,450,5400,163.3,4.25,0
+2026-01-27,Wearables,Fitness Band,East,1,100,100,489.48,4.12,0
+2026-01-28,Wearables,Fitness Band,North,3,100,300,356.32,4.3,0
+2026-01-29,Wearables,Fitness Band,West,7,100,700,392.73,3.86,0
+2026-01-30,Electronics,Smart Monitor,South,6,450,2700,291.1,3.64,0
+2026-01-31,Audio,Bluetooth Speaker,West,13,90,1170,436.26,3.99,0
+2026-02-01,Audio,Noise-Canceling Headphones,East,4,250,1000,340.33,3.76,0
+2026-02-02,Audio,Bluetooth Speaker,West,1,90,90,354.06,4.6,0
+2026-02-03,Audio,Bluetooth Speaker,South,3,90,270,152.85,3.76,2
+2026-02-04,Wearables,Fitness Band,South,1,100,100,91.9,4.85,0
+2026-02-05,Audio,Noise-Canceling Headphones,North,9,250,2250,207.14,4.59,0
+2026-02-06,Accessories,Mechanical Keyboard,West,4,120,480,87.86,3.74,0
+2026-02-07,Accessories,USB-C Dock,West,14,80,1120,473.06,4.96,0
+2026-02-08,Accessories,Wireless Mouse,South,3,50,150,343.38,3.84,0
+2026-02-09,Accessories,Mechanical Keyboard,West,4,120,480,214.91,4.62,0
+2026-02-10,Electronics,Tablet Air,East,6,600,3600,169.34,3.87,1
+2026-02-11,Audio,Bluetooth Speaker,West,11,90,990,245.48,4.03,0
+2026-02-12,Wearables,Fitness Band,North,12,100,1200,375.1,3.92,0
+2026-02-13,Wearables,Fitness Band,West,12,100,1200,261.48,3.92,0
+2026-02-14,Electronics,Laptop Pro,West,13,1200,15600,242.68,4.95,1
+2026-02-15,Wearables,Fitness Band,North,5,100,500,135.91,3.9,0
+2026-02-16,Electronics,Smart Monitor,East,6,450,2700,363.21,4.36,0
+2026-02-17,Audio,Bluetooth Speaker,East,2,90,180,164.37,3.94,0
+2026-02-18,Electronics,Laptop Pro,East,6,1200,7200,211.77,3.94,0
+2026-02-19,Accessories,Mechanical Keyboard,West,13,120,1560,86.72,3.51,0
+2026-02-20,Electronics,Smart Monitor,West,14,450,6300,450.5,4.01,0
+2026-02-21,Wearables,Fitness Band,East,6,100,600,197.67,3.73,2
+2026-02-22,Accessories,Wireless Mouse,South,1,50,50,66.81,4.73,0
+2026-02-23,Wearables,Fitness Band,North,8,100,800,396.5,3.82,0
+2026-02-24,Accessories,Mechanical Keyboard,West,4,120,480,235.11,4.55,0
+2026-02-25,Electronics,Smart Monitor,West,10,450,4500,195.33,4.69,0
+2026-02-26,Accessories,USB-C Dock,South,5,80,400,132.95,3.62,0
+2026-02-27,Electronics,Laptop Pro,South,10,1200,12000,120.4,3.88,0
+2026-02-28,Electronics,Laptop Pro,North,1,1200,1200,479.69,4.61,0
+2026-03-01,Accessories,Mechanical Keyboard,East,3,120,360,161.48,4.03,0
+2026-03-02,Electronics,Smart Monitor,West,5,450,2250,92.37,3.97,1
+2026-03-03,Wearables,Smartwatch Series X,South,10,300,3000,271.23,4.21,0
+2026-03-04,Electronics,Tablet Air,South,10,600,6000,477.12,4.83,0
+2026-03-05,Accessories,USB-C Dock,South,1,80,80,292.72,4.53,0
+2026-03-06,Wearables,Fitness Band,South,1,100,100,440.24,4.45,0
+2026-03-07,Wearables,Smartwatch Series X,East,12,300,3600,107.83,4.72,0
+2026-03-08,Audio,Noise-Canceling Headphones,North,8,250,2000,457.41,3.79,0
+2026-03-09,Accessories,Wireless Mouse,North,3,50,150,328.21,4.0,0
+2026-03-10,Accessories,Wireless Mouse,South,14,50,700,416.51,3.92,0
+2026-03-11,Accessories,Mechanical Keyboard,East,13,120,1560,67.63,4.13,2
+2026-03-12,Accessories,Mechanical Keyboard,North,8,120,960,413.08,4.99,0
+2026-03-13,Electronics,Tablet Air,West,8,600,4800,440.2,4.34,0
+2026-03-14,Electronics,Tablet Air,North,3,600,1800,96.41,4.85,0
+2026-03-15,Electronics,Smart Monitor,North,11,450,4950,94.99,3.58,1
+2026-03-16,Wearables,Fitness Band,East,12,100,1200,477.53,4.93,0
+2026-03-17,Wearables,Fitness Band,North,3,100,300,321.1,4.33,0
+2026-03-18,Audio,Bluetooth Speaker,North,7,90,630,91.04,4.24,0
+2026-03-19,Accessories,Mechanical Keyboard,East,7,120,840,295.66,4.56,1
+2026-03-20,Accessories,Wireless Mouse,West,1,50,50,95.51,3.63,0
+2026-03-21,Accessories,Mechanical Keyboard,South,11,120,1320,367.81,3.62,0
+2026-03-22,Wearables,Smartwatch Series X,North,1,300,300,446.16,3.86,0
+2026-03-23,Electronics,Smart Monitor,West,3,450,1350,399.72,4.34,0
+2026-03-24,Audio,Noise-Canceling Headphones,South,3,250,750,164.16,4.11,0
+2026-03-25,Wearables,Smartwatch Series X,North,9,300,2700,384.9,4.52,0
+2026-03-26,Audio,Bluetooth Speaker,North,9,90,810,440.87,3.84,2
+2026-03-27,Electronics,Laptop Pro,North,5,1200,6000,69.53,4.89,0
+2026-03-28,Audio,Noise-Canceling Headphones,West,9,250,2250,285.39,4.44,0
+2026-03-29,Electronics,Laptop Pro,South,6,1200,7200,222.89,4.61,0
+2026-03-30,Wearables,Smartwatch Series X,West,6,300,1800,255.05,4.43,0
+2026-03-31,Wearables,Smartwatch Series X,West,10,300,3000,153.23,3.9,0
+2026-04-01,Wearables,Fitness Band,South,1,100,100,175.89,4.12,0
+2026-04-02,Wearables,Fitness Band,North,14,100,1400,84.29,4.91,0
+2026-04-03,Audio,Noise-Canceling Headphones,South,10,250,2500,469.73,4.8,0
+2026-04-04,Wearables,Fitness Band,South,1,100,100,266.17,4.98,0
+2026-04-05,Accessories,USB-C Dock,North,6,80,480,423.12,4.35,0
+2026-04-06,Audio,Noise-Canceling Headphones,North,5,250,1250,75.37,4.8,0
+2026-04-07,Electronics,Smart Monitor,East,5,450,2250,313.32,4.59,0
+2026-04-08,Electronics,Laptop Pro,South,9,1200,10800,108.12,4.93,0
+2026-04-09,Electronics,Laptop Pro,West,2,1200,2400,211.17,3.67,0
+2026-04-10,Accessories,Wireless Mouse,East,11,50,550,188.5,4.72,2
+2026-04-11,Accessories,USB-C Dock,North,1,80,80,110.31,3.54,0
+2026-04-12,Electronics,Smart Monitor,South,11,450,4950,145.83,3.7,0
+2026-04-13,Accessories,Wireless Mouse,South,14,50,700,299.67,3.64,0
+2026-04-14,Accessories,Mechanical Keyboard,West,12,120,1440,184.08,4.29,0
+2026-04-15,Wearables,Smartwatch Series X,West,1,300,300,271.45,3.89,0
+2026-04-16,Accessories,Wireless Mouse,North,2,50,100,197.94,4.45,0
+2026-04-17,Audio,Noise-Canceling Headphones,East,7,250,1750,313.14,4.1,0
+2026-04-18,Wearables,Smartwatch Series X,West,9,300,2700,453.55,4.21,0
+2026-04-19,Electronics,Smart Monitor,East,3,450,1350,419.81,4.02,0
+2026-04-20,Electronics,Smart Monitor,North,5,450,2250,257.35,3.81,0
+2026-04-21,Accessories,Mechanical Keyboard,East,9,120,1080,91.53,4.22,0
+2026-04-22,Accessories,USB-C Dock,East,13,80,1040,51.17,4.8,0
+2026-04-23,Electronics,Tablet Air,East,8,600,4800,268.04,4.43,0
+2026-04-24,Accessories,Mechanical Keyboard,South,14,120,1680,116.48,3.7,0
+2026-04-25,Accessories,USB-C Dock,East,12,80,960,98.23,4.17,0
+2026-04-26,Wearables,Fitness Band,East,5,100,500,132.03,4.35,0
+2026-04-27,Accessories,Wireless Mouse,West,9,50,450,450.74,4.39,0
+2026-04-28,Electronics,Laptop Pro,South,4,1200,4800,291.7,4.38,0
+2026-04-29,Wearables,Fitness Band,South,9,100,900,201.85,4.85,0
+2026-04-30,Wearables,Fitness Band,North,6,100,600,322.6,3.86,0
+2026-05-01,Accessories,USB-C Dock,West,4,80,320,432.87,3.63,0
+2026-05-02,Audio,Noise-Canceling Headphones,East,3,250,750,286.03,4.12,1
+2026-05-03,Accessories,Wireless Mouse,West,12,50,600,462.83,3.51,2
+2026-05-04,Wearables,Smartwatch Series X,East,14,300,4200,468.22,4.34,0
+2026-05-05,Electronics,Laptop Pro,South,10,1200,12000,195.66,4.14,0
+2026-05-06,Wearables,Fitness Band,North,10,100,1000,395.5,3.63,0
+2026-05-07,Wearables,Fitness Band,East,3,100,300,73.32,4.0,0
+2026-05-08,Accessories,Wireless Mouse,North,8,50,400,414.44,3.88,0
+2026-05-09,Electronics,Tablet Air,East,8,600,4800,322.75,4.69,0
+2026-05-10,Accessories,Wireless Mouse,South,5,50,250,378.89,4.91,0
+2026-05-11,Electronics,Smart Monitor,West,13,450,5850,112.9,4.69,0
+2026-05-12,Audio,Noise-Canceling Headphones,North,5,250,1250,156.06,4.45,0
+2026-05-13,Electronics,Smart Monitor,North,2,450,900,417.47,4.16,0
+2026-05-14,Electronics,Smart Monitor,North,7,450,3150,247.44,4.37,0
+2026-05-15,Audio,Bluetooth Speaker,South,5,90,450,457.91,4.44,0
+2026-05-16,Audio,Noise-Canceling Headphones,East,8,250,2000,362.17,3.75,0
+2026-05-17,Wearables,Smartwatch Series X,East,11,300,3300,404.87,3.73,0
+2026-05-18,Audio,Noise-Canceling Headphones,North,14,250,3500,142.05,4.57,0
+2026-05-19,Electronics,Smart Monitor,South,13,450,5850,99.78,4.77,0
+2026-05-20,Audio,Noise-Canceling Headphones,West,5,250,1250,268.86,4.11,0
+2026-05-21,Audio,Noise-Canceling Headphones,East,4,250,1000,294.23,3.88,0
+2026-05-22,Accessories,Wireless Mouse,West,6,50,300,152.31,4.14,0
+2026-05-23,Wearables,Smartwatch Series X,North,8,300,2400,277.65,4.42,0
+2026-05-24,Audio,Bluetooth Speaker,West,4,90,360,463.44,4.69,0
+2026-05-25,Accessories,Mechanical Keyboard,West,10,120,1200,81.01,3.62,0
+2026-05-26,Accessories,USB-C Dock,East,1,80,80,100.96,4.98,0
+2026-05-27,Accessories,USB-C Dock,North,1,80,80,441.45,4.28,0
+2026-05-28,Electronics,Tablet Air,North,5,600,3000,200.84,4.7,0
+2026-05-29,Audio,Noise-Canceling Headphones,West,9,250,2250,438.58,4.88,0
+2026-05-30,Accessories,USB-C Dock,North,11,80,880,64.78,4.87,0
